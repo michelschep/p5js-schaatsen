@@ -24,7 +24,7 @@ Versla Team B (computer) door zo snel mogelijk alle 6 rondes te voltooien met je
 
 ## Live Demo
 
-Speel het spel hier: [Team Sprint Schaatsen](https://jouw-gebruikersnaam.github.io/p5js-schaatsen/)
+Speel het spel hier: [Team Sprint Schaatsen](https://michelschep.github.io/p5js-schaatsen/)
 
 ## Technologie
 
